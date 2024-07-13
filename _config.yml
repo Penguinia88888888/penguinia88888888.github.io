@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: 
+title: Penguinia
+subtitle: "My personal Website"
+email: andyduoduo8@gmail.com
 name: Penguinia
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  My personal Website
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -78,14 +78,14 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: 
+    username: Penguinia
     url: 
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: 
+    username: Penguinia
     url: ""
     desc: Friend me on Facebook
     share: true
